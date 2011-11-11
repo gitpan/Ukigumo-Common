@@ -2,7 +2,7 @@ package Ukigumo::Common;
 use strict;
 use warnings;
 use 5.008001;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 __END__
@@ -27,7 +27,7 @@ This distribution should on perl 5.8.
 
 =head1 AUTHOR
 
-Tokuhiro Matsuno E<lt>tokuhirom AAJKLFJEF GMAIL COME<gt>
+Tokuhiro Matsuno E<lt>tokuhirom AAJKLFJEF@ GMAIL COME<gt>
 
 =head1 SEE ALSO
 
