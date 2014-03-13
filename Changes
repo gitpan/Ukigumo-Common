@@ -1,5 +1,10 @@
 Revision history for Perl extension Ukigumo::Common
 
+0.04 2014-03-13T07:54:10Z
+
+    - Add some constants
+    - Change module building system (inner change)
+
 0.03
 
     - oops
