@@ -4,7 +4,7 @@
       "Tokuhiro Matsuno <tokuhirom AAJKLFJEF@ GMAIL COM>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.11.0",
+   "generated_by" : "Minilla/v0.12.0",
    "license" : [
       "perl_5"
    ],
@@ -56,7 +56,7 @@
    "provides" : {
       "Ukigumo::Common" : {
          "file" : "lib/Ukigumo/Common.pm",
-         "version" : "0.04"
+         "version" : "0.05"
       },
       "Ukigumo::Constants" : {
          "file" : "lib/Ukigumo/Constants.pm"
@@ -68,15 +68,15 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/moznion/Ukigumo-Common/issues"
+         "web" : "https://github.com/ukigumo/Ukigumo-Common/issues"
       },
-      "homepage" : "https://github.com/moznion/Ukigumo-Common",
+      "homepage" : "https://github.com/ukigumo/Ukigumo-Common",
       "repository" : {
-         "url" : "git://github.com/moznion/Ukigumo-Common.git",
-         "web" : "https://github.com/moznion/Ukigumo-Common"
+         "url" : "git://github.com/ukigumo/Ukigumo-Common.git",
+         "web" : "https://github.com/ukigumo/Ukigumo-Common"
       }
    },
-   "version" : "0.04",
+   "version" : "0.05",
    "x_contributors" : [
       "Tokuhiro Matsuno <tokuhirom@gmail.com>",
       "mattn <mattn.jp@gmail.com>",
