@@ -7,8 +7,10 @@ cpanfile
 lib/Ukigumo/Common.pm
 lib/Ukigumo/Constants.pm
 lib/Ukigumo/Helper.pm
+lib/Ukigumo/Logger.pm
 minil.toml
 t/00_compile.t
+t/10_logger.t
 xt/02_perlcritic.t
 META.yml
 MANIFEST

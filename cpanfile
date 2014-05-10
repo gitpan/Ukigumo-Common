@@ -1,12 +1,13 @@
 requires 'parent';
 requires 'perl', '5.008001';
+requires 'Log::Minimal';
+requires 'Mouse';
 
 on configure => sub {
-    requires 'CPAN::Meta';
-    requires 'CPAN::Meta::Prereqs';
-    requires 'Module::Build';
+    requires 'Module::Build::Tiny', '0.035';
 };
 
 on test => sub {
-    requires 'Test::More';
+    requires 'Test::More', '0.98';
+    requires 'Capture::Tiny';
 };
