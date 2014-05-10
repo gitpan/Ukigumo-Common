@@ -27,7 +27,7 @@ no_index:
 provides:
   Ukigumo::Common:
     file: lib/Ukigumo/Common.pm
-    version: '0.08'
+    version: '0.09'
   Ukigumo::Constants:
     file: lib/Ukigumo/Constants.pm
   Ukigumo::Helper:
@@ -43,7 +43,7 @@ resources:
   bugtracker: https://github.com/ukigumo/Ukigumo-Common/issues
   homepage: https://github.com/ukigumo/Ukigumo-Common
   repository: git://github.com/ukigumo/Ukigumo-Common.git
-version: '0.08'
+version: '0.09'
 x_authority: cpan:TOKUHIROM
 x_contributors:
   - 'Tokuhiro Matsuno <tokuhirom@gmail.com>'
